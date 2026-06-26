@@ -1,0 +1,6 @@
+{
+  "name": "LinkScope",
+  "description": "Inspect any website instantly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
